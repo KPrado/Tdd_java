@@ -1,0 +1,4 @@
+Testando regras de negocio:
+Valor devolvido pelo metodo
+objeto modificado pelo metodo
+exceptions
