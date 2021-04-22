@@ -23,6 +23,6 @@ public enum Desempenho {
         }
     };
 
-    //metodo abstrato forçando cada constante a ter implementação
+    //metodo abstrato forçando cada constante a ter sua propria implementação
     public abstract BigDecimal percentualReajuste();
 }
