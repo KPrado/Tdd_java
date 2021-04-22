@@ -1,5 +1,5 @@
 ## TDD com Java
-Projteo exemplo usando TDD aplicando Strategy Pattern.
+Projeto de exemplo usando TDD aplicando Strategy Pattern.
 
 ## O que esta sendo testado?
 Valores devolvidos pelos metodos
