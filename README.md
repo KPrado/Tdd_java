@@ -2,6 +2,6 @@
 Projeto de exemplo usando TDD aplicando Strategy Pattern.
 
 ## O que esta sendo testado?
-Valores devolvidos pelos metodos
-Objetos modificados pelos metodos
+Valores devolvidos pelos metodos <br>
+Objetos modificados pelos metodos <br>
 Exceptions
